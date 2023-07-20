@@ -77,13 +77,13 @@ body {
   margin-bottom: 0;
 }
 #es-RC-content.es-RC .es-kv__Ctn {
-  background-image: url(./images/kv-bg.png);
+  background-image: url(./images/kv-bg.webp);
   background-position: right;
   background-size: cover;
   color: #FFF;
 }
 #es-RC-content.es-RC .es-kv__Ctn--left {
-  background-image: url(./images/kv-bg.png);
+  background-image: url(./images/kv-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   text-transform: uppercase;
@@ -618,7 +618,7 @@ body {
   background-color: #e9809c;
 }
 #es-RC-content.es-RC .es-models {
-  background-image: url("./images/shiny-happy-people.png");
+  background-image: url("./images/shiny-happy-people.webp");
   background-repeat: no-repeat;
   background-position: 38% center;
   background-size: cover;
